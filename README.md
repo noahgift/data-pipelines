@@ -4,12 +4,19 @@
 
 ### Lightweight
 
+#### Non-Cloud
 * Cron
+
+#### Cloud
+* AWS CloudWatch Events
 
 #### Medium
 
-* Cloud Native Tools
+#### Non-Cloud
 
 #### Heavy
 
 * Kubernetes Based
+
+#### Non-Cloud
+#### Cloud
