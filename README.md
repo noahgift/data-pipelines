@@ -16,7 +16,12 @@
 
 #### Heavy
 
-* Kubernetes Based
+#### Non-Cloud Native
 
-#### Non-Cloud
+* Kubernetes Based:  Kubeflow
+
 #### Cloud
+
+* Databricks
+* Sagemaker
+* Azure
