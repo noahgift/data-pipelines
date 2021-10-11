@@ -1,8 +1,6 @@
-# data-pipelines
+# Types of Data Pipelines
 
-## Types of Pipelines
-
-### Lightweight
+## Lightweight
 
 #### Non-Cloud
 * Cron
@@ -10,11 +8,11 @@
 #### Cloud
 * AWS CloudWatch Events
 
-#### Medium
+## Medium
 
 #### Non-Cloud
 
-#### Heavy
+## Heavy
 
 #### Non-Cloud Native
 
